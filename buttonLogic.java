@@ -5,3 +5,4 @@ Now we are using ssh authentication
 
 This is final change to button.
 
+Increased button size to 30 pixels.
